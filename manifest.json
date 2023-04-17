@@ -1,0 +1,12 @@
+{
+  "name": "WebClock",
+  "namespace": "webclock",
+  "description": "A managed component to display current date in browser",
+  "icon": "assets/icon.svg",
+  "permissions": {
+    "provide_pageviews": {
+      "description": "This permission is used to facilitate better a user experience.",
+      "required": true
+    }
+  }
+}
